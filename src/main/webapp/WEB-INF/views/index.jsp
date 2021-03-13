@@ -79,20 +79,20 @@
       <div class="col-sm-12">
 	      <div>
 		       <div class="col-sm-3">
-		         <p><i class="glyphicon glyphicon-comment"></i>&nbsp;QQ:70873523</p>
+		         <p><i class="glyphicon glyphicon-comment"></i>&nbsp;QQ:xxxxx</p>
 		       </div>
 		       <div class="col-sm-3">
-		         <p><i class="glyphicon glyphicon-phone"></i>&nbsp;电话:15821882062</p>
+		         <p><i class="glyphicon glyphicon-phone"></i>&nbsp;电话:xxxx</p>
 		       </div>
 		       <div class="col-sm-3">
-		         <p><i class="glyphicon glyphicon-map-marker"></i>&nbsp;地址:上海市宝山区月罗公路1116号</p>
+		         <p><i class="glyphicon glyphicon-map-marker"></i>&nbsp;地址:xxxx</p>
 		       </div>
 		       <div class="col-sm-3">
-		         <p><i class="glyphicon glyphicon-envelope"></i>&nbsp;邮件:70873523@qq.com</p>
+		         <p><i class="glyphicon glyphicon-envelope"></i>&nbsp;邮件:xxx@qq.com</p>
 		       </div>
 		  </div>
 	      <div class="col-sm-12">
-	        <p>&copy;2016 买卖钢材网 www.maisteel.com 上海三中实业有限公司 All Rights Reserved </p>
+	        <p>&copy;2016 xxxxx实业有限公司 All Rights Reserved </p>
 	      </div>
 	  </div>
       <div class="col-sm-12"><i class="glyphicon glyphicon-warning-sign"></i>警告：本网站仅提供免费发布渠道，并不对资源发布作任何审查。使用资源单频道进行交易所存在的风险及产生的后果由您与发布者自行承担。</div>
